@@ -1,4 +1,4 @@
-# Rapid Blazor Template for .NET
+# Rapid Blazor Template for .NET - Shakat
 
 [![Build+Deploy](https://github.com/jasontaylordev/RapidBlazor/actions/workflows/workflow.yml/badge.svg)](https://github.com/jasontaylordev/RapidBlazor/actions/workflows/workflow.yml)
 [![Nuget](https://img.shields.io/nuget/v/JasonTaylorDev.RapidBlazor?label=NuGet&)](https://www.nuget.org/packages/JasonTaylorDev.RapidBlazor)
